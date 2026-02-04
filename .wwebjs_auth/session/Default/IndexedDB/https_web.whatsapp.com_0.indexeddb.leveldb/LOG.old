@@ -1,0 +1,31 @@
+2026/01/31-20:38:02.002 bb80 Reusing MANIFEST /home/lyon/Documents/wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/31-20:38:02.003 bb80 Recovering log #497
+2026/01/31-20:38:02.017 bb80 Reusing old log /home/lyon/Documents/wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000497.log 
+2026/01/31-20:38:03.923 bb80 Level-0 table #511: started
+2026/01/31-20:38:03.936 bb80 Level-0 table #511: 330022 bytes OK
+2026/01/31-20:38:03.939 bb80 Delete type=0 #497
+2026/01/31-20:38:03.940 bb80 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/31-20:38:04.018 bb82 Compacting 1@1 + 10@2 files
+2026/01/31-20:38:04.135 bb82 Generated table #512@1: 48155 keys, 2183800 bytes
+2026/01/31-20:38:04.331 bb82 Generated table #513@1: 100848 keys, 2251051 bytes
+2026/01/31-20:38:04.435 bb82 Generated table #514@1: 60586 keys, 2242820 bytes
+2026/01/31-20:38:04.518 bb82 Generated table #515@1: 39667 keys, 2202618 bytes
+2026/01/31-20:38:04.560 bb82 Generated table #516@1: 2240 keys, 2159186 bytes
+2026/01/31-20:38:04.597 bb82 Generated table #517@1: 2831 keys, 2159151 bytes
+2026/01/31-20:38:04.629 bb82 Generated table #518@1: 2835 keys, 2156854 bytes
+2026/01/31-20:38:04.754 bb82 Generated table #519@1: 27760 keys, 2262766 bytes
+2026/01/31-20:38:04.846 bb82 Generated table #520@1: 31512 keys, 2217217 bytes
+2026/01/31-20:38:04.851 bb82 Generated table #521@1: 1673 keys, 112678 bytes
+2026/01/31-20:38:04.851 bb82 Compacted 1@1 + 10@2 files => 19948141 bytes
+2026/01/31-20:38:04.855 bb82 compacted to: files[ 0 0 10 0 0 0 0 ]
+2026/01/31-20:38:04.856 bb82 Delete type=2 #499
+2026/01/31-20:38:04.856 bb82 Delete type=2 #500
+2026/01/31-20:38:04.856 bb82 Delete type=2 #501
+2026/01/31-20:38:04.856 bb82 Delete type=2 #502
+2026/01/31-20:38:04.856 bb82 Delete type=2 #503
+2026/01/31-20:38:04.856 bb82 Delete type=2 #504
+2026/01/31-20:38:04.856 bb82 Delete type=2 #505
+2026/01/31-20:38:04.856 bb82 Delete type=2 #506
+2026/01/31-20:38:04.856 bb82 Delete type=2 #507
+2026/01/31-20:38:04.856 bb82 Delete type=2 #508
+2026/01/31-20:38:04.856 bb82 Delete type=2 #511

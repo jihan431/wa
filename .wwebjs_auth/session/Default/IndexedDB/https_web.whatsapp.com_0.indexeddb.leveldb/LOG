@@ -1,0 +1,31 @@
+2026/01/31-20:42:39.222 c10b Reusing MANIFEST /home/lyon/Documents/wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/31-20:42:39.223 c10b Recovering log #510
+2026/01/31-20:42:39.242 c10b Reusing old log /home/lyon/Documents/wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000510.log 
+2026/01/31-20:42:41.292 c110 Level-0 table #524: started
+2026/01/31-20:42:41.318 c110 Level-0 table #524: 461005 bytes OK
+2026/01/31-20:42:41.365 c110 Delete type=0 #510
+2026/01/31-20:42:41.366 c111 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/31-20:42:41.426 c10b Compacting 1@1 + 10@2 files
+2026/01/31-20:42:41.590 c10b Generated table #525@1: 48087 keys, 2184068 bytes
+2026/01/31-20:42:41.808 c10b Generated table #526@1: 100994 keys, 2253205 bytes
+2026/01/31-20:42:41.946 c10b Generated table #527@1: 61099 keys, 2242532 bytes
+2026/01/31-20:42:42.061 c10b Generated table #528@1: 40268 keys, 2205533 bytes
+2026/01/31-20:42:42.163 c10b Generated table #529@1: 2239 keys, 2159222 bytes
+2026/01/31-20:42:42.227 c10b Generated table #530@1: 2831 keys, 2158728 bytes
+2026/01/31-20:42:42.296 c10b Generated table #531@1: 2570 keys, 2154902 bytes
+2026/01/31-20:42:42.421 c10b Generated table #532@1: 27332 keys, 2260401 bytes
+2026/01/31-20:42:42.545 c10b Generated table #533@1: 30482 keys, 2221194 bytes
+2026/01/31-20:42:42.583 c10b Generated table #534@1: 3518 keys, 184332 bytes
+2026/01/31-20:42:42.583 c10b Compacted 1@1 + 10@2 files => 20024117 bytes
+2026/01/31-20:42:42.631 c10b compacted to: files[ 0 0 10 0 0 0 0 ]
+2026/01/31-20:42:42.632 c10b Delete type=2 #512
+2026/01/31-20:42:42.632 c10b Delete type=2 #513
+2026/01/31-20:42:42.632 c10b Delete type=2 #514
+2026/01/31-20:42:42.632 c10b Delete type=2 #515
+2026/01/31-20:42:42.632 c10b Delete type=2 #516
+2026/01/31-20:42:42.632 c10b Delete type=2 #517
+2026/01/31-20:42:42.632 c10b Delete type=2 #518
+2026/01/31-20:42:42.632 c10b Delete type=2 #519
+2026/01/31-20:42:42.632 c10b Delete type=2 #520
+2026/01/31-20:42:42.632 c10b Delete type=2 #521
+2026/01/31-20:42:42.632 c10b Delete type=2 #524
